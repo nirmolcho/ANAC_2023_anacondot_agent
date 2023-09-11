@@ -1,0 +1,1892 @@
+[
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      },
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.LuckyAgent2022.LuckyAgent2022.LuckyAgent2022",
+        "parameters": {
+          "storage_dir": "agent_storage/LuckyAgent2022"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HardlinerAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.colman_anacondot_agent2.colman_anacondot_agent2.ColmanAnacondotAgent2",
+        "parameters": {
+          "storage_dir": "agent_storage/ColmanAnacondotAgent2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.time_dependent_agent.time_dependent_agent.TimeDependentAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/TimeDependentAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.stupid_agent.stupid_agent.StupidAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/StupidAgent"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.agent4410.agent_4410.Agent4410",
+        "parameters": {
+          "storage_dir": "agent_storage/Agent4410"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.agentfish.agentfish.AgentFish",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFish"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  },
+  {
+    "agents": [
+      {
+        "class": "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/BoulwareAgent"
+        }
+      },
+      {
+        "class": "agents.AgentFO2.AgentFO2.AgentFO2",
+        "parameters": {
+          "storage_dir": "agent_storage/AgentFO2"
+        }
+      }
+    ],
+    "profiles": [
+      "domains/domain00/profileA.json",
+      "domains/domain00/profileB.json"
+    ],
+    "deadline_time_ms": 10000
+  }
+]

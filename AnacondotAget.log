@@ -1,0 +1,514 @@
+2023-04-18 16:26:27,944 - AnacondotAget - INFO - Template Agent is initialized.
+2023-04-18 16:26:27,955 - AnacondotAget - INFO - Template Agent is ready.
+2023-04-18 16:26:28,151 - AnacondotAget - INFO - Data loaded.
+2023-04-18 16:26:28,151 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:28,256 - AnacondotAget - INFO - Offered: 0.975753
+2023-04-18 16:26:28,462 - AnacondotAget - INFO - Received Bid: 0.278181
+2023-04-18 16:26:28,566 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:26:28,634 - AnacondotAget - INFO - Received Bid: 0.528202
+2023-04-18 16:26:28,737 - AnacondotAget - INFO - Offered: 0.934192
+2023-04-18 16:26:28,804 - AnacondotAget - INFO - Received Bid: 0.224457
+2023-04-18 16:26:28,909 - AnacondotAget - INFO - Offered: 0.913663
+2023-04-18 16:26:28,979 - AnacondotAget - INFO - Received Bid: 0.186172
+2023-04-18 16:26:29,081 - AnacondotAget - INFO - Offered: 0.896230
+2023-04-18 16:26:29,251 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:29,392 - AnacondotAget - INFO - Offered: 0.870673
+2023-04-18 16:26:29,562 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:29,663 - AnacondotAget - INFO - Offered: 0.837928
+2023-04-18 16:26:29,830 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:29,931 - AnacondotAget - INFO - Offered: 0.812750
+2023-04-18 16:26:30,098 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:30,201 - AnacondotAget - INFO - Offered: 0.784264
+2023-04-18 16:26:30,372 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:30,473 - AnacondotAget - INFO - Offered: 0.757469
+2023-04-18 16:26:30,645 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:30,747 - AnacondotAget - INFO - Offered: 0.730010
+2023-04-18 16:26:30,917 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:31,020 - AnacondotAget - INFO - Offered: 0.702854
+2023-04-18 16:26:31,198 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:31,302 - AnacondotAget - INFO - Offered: 0.674352
+2023-04-18 16:26:31,471 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:31,572 - AnacondotAget - INFO - Offered: 0.647523
+2023-04-18 16:26:31,746 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:31,847 - AnacondotAget - INFO - Offered: 0.620057
+2023-04-18 16:26:32,015 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:32,116 - AnacondotAget - INFO - Offered: 0.592996
+2023-04-18 16:26:32,286 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:32,392 - AnacondotAget - INFO - Offered: 0.565847
+2023-04-18 16:26:32,559 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:32,661 - AnacondotAget - INFO - Offered: 0.538962
+2023-04-18 16:26:32,828 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:32,929 - AnacondotAget - INFO - Offered: 0.511732
+2023-04-18 16:26:33,095 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:33,197 - AnacondotAget - INFO - Offered: 0.485063
+2023-04-18 16:26:33,369 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:26:33,471 - AnacondotAget - INFO - Offered: 0.457900
+2023-04-18 16:26:33,537 - AnacondotAget - INFO - Received Bid: 0.186172
+2023-04-18 16:26:33,641 - AnacondotAget - INFO - Offered: 0.440886
+2023-04-18 16:26:33,707 - AnacondotAget - INFO - Received Bid: 0.278181
+2023-04-18 16:26:33,809 - AnacondotAget - INFO - Offered: 0.423883
+2023-04-18 16:26:33,875 - AnacondotAget - INFO - Received Bid: 0.456162
+2023-04-18 16:26:33,976 - AnacondotAget - INFO - Accepted - My Bid: 0.407116, Received: 0.456162
+2023-04-18 16:26:33,988 - AnacondotAget - INFO - agents_hybrid_hybrid_agent_HybridAgent data is saved.
+2023-04-18 16:26:33,988 - AnacondotAget - INFO - Template Agent is terminating.
+2023-04-18 16:44:05,160 - AnacondotAget - INFO - Template Agent is initialized.
+2023-04-18 16:44:05,172 - AnacondotAget - INFO - Template Agent is ready.
+2023-04-18 16:44:05,368 - AnacondotAget - INFO - Data loaded.
+2023-04-18 16:44:05,368 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:44:05,469 - AnacondotAget - INFO - Offered: 0.975753
+2023-04-18 16:44:05,679 - AnacondotAget - INFO - Received Bid: 0.278181
+2023-04-18 16:44:05,782 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:44:05,874 - AnacondotAget - INFO - Received Bid: 0.528202
+2023-04-18 16:44:05,975 - AnacondotAget - INFO - Offered: 0.934192
+2023-04-18 16:44:06,042 - AnacondotAget - INFO - Received Bid: 0.224457
+2023-04-18 16:44:06,144 - AnacondotAget - INFO - Offered: 0.911764
+2023-04-18 16:44:06,232 - AnacondotAget - INFO - Received Bid: 0.186172
+2023-04-18 16:44:06,335 - AnacondotAget - INFO - Offered: 0.893533
+2023-04-18 16:44:06,404 - AnacondotAget - INFO - Received Bid: 0.456162
+2023-04-18 16:44:06,505 - AnacondotAget - INFO - Offered: 0.875217
+2023-04-18 16:44:06,572 - AnacondotAget - INFO - Received Bid: 0.474479
+2023-04-18 16:44:06,675 - AnacondotAget - INFO - Offered: 0.858382
+2023-04-18 16:44:06,744 - AnacondotAget - INFO - Received Bid: 0.222900
+2023-04-18 16:44:06,848 - AnacondotAget - INFO - Offered: 0.841623
+2023-04-18 16:44:06,916 - AnacondotAget - INFO - Received Bid: 0.484659
+2023-04-18 16:44:07,020 - AnacondotAget - INFO - Offered: 0.825825
+2023-04-18 16:44:07,090 - AnacondotAget - INFO - Received Bid: 0.556699
+2023-04-18 16:44:07,190 - AnacondotAget - INFO - Offered: 0.806770
+2023-04-18 16:44:07,263 - AnacondotAget - INFO - Received Bid: 0.492710
+2023-04-18 16:44:07,363 - AnacondotAget - INFO - Offered: 0.789763
+2023-04-18 16:44:07,431 - AnacondotAget - INFO - Received Bid: 0.486587
+2023-04-18 16:44:07,533 - AnacondotAget - INFO - Offered: 0.773031
+2023-04-18 16:44:07,601 - AnacondotAget - INFO - Received Bid: 0.501418
+2023-04-18 16:44:07,702 - AnacondotAget - INFO - Offered: 0.755916
+2023-04-18 16:44:07,770 - AnacondotAget - INFO - Received Bid: 0.550573
+2023-04-18 16:44:07,871 - AnacondotAget - INFO - Offered: 0.739781
+2023-04-18 16:44:07,938 - AnacondotAget - INFO - Received Bid: 0.429395
+2023-04-18 16:44:08,038 - AnacondotAget - INFO - Offered: 0.722174
+2023-04-18 16:44:08,106 - AnacondotAget - INFO - Received Bid: 0.418306
+2023-04-18 16:44:08,208 - AnacondotAget - INFO - Offered: 0.705763
+2023-04-18 16:44:08,274 - AnacondotAget - INFO - Received Bid: 0.359218
+2023-04-18 16:44:08,374 - AnacondotAget - INFO - Offered: 0.688717
+2023-04-18 16:44:08,441 - AnacondotAget - INFO - Received Bid: 0.448679
+2023-04-18 16:44:08,541 - AnacondotAget - INFO - Offered: 0.672009
+2023-04-18 16:44:08,607 - AnacondotAget - INFO - Received Bid: 0.243974
+2023-04-18 16:44:08,707 - AnacondotAget - INFO - Offered: 0.655466
+2023-04-18 16:44:08,775 - AnacondotAget - INFO - Received Bid: 0.421955
+2023-04-18 16:44:08,875 - AnacondotAget - INFO - Offered: 0.638374
+2023-04-18 16:44:08,946 - AnacondotAget - INFO - Received Bid: 0.440272
+2023-04-18 16:44:09,047 - AnacondotAget - INFO - Offered: 0.621500
+2023-04-18 16:44:09,116 - AnacondotAget - INFO - Received Bid: 0.493995
+2023-04-18 16:44:09,216 - AnacondotAget - INFO - Offered: 0.604365
+2023-04-18 16:44:09,286 - AnacondotAget - INFO - Received Bid: 0.290344
+2023-04-18 16:44:09,387 - AnacondotAget - INFO - Offered: 0.587549
+2023-04-18 16:44:09,456 - AnacondotAget - INFO - Received Bid: 0.344067
+2023-04-18 16:44:09,558 - AnacondotAget - INFO - Offered: 0.570582
+2023-04-18 16:44:09,626 - AnacondotAget - INFO - Received Bid: 0.386340
+2023-04-18 16:44:09,728 - AnacondotAget - INFO - Offered: 0.553493
+2023-04-18 16:44:09,798 - AnacondotAget - INFO - Received Bid: 0.421955
+2023-04-18 16:44:09,900 - AnacondotAget - INFO - Offered: 0.536068
+2023-04-18 16:44:09,969 - AnacondotAget - INFO - Received Bid: 0.272027
+2023-04-18 16:44:10,072 - AnacondotAget - INFO - Offered: 0.519033
+2023-04-18 16:44:10,140 - AnacondotAget - INFO - Received Bid: 0.243974
+2023-04-18 16:44:10,240 - AnacondotAget - INFO - Offered: 0.502077
+2023-04-18 16:44:10,306 - AnacondotAget - INFO - Received Bid: 0.190250
+2023-04-18 16:44:10,405 - AnacondotAget - INFO - Offered: 0.485480
+2023-04-18 16:44:10,472 - AnacondotAget - INFO - Received Bid: 0.418306
+2023-04-18 16:44:10,576 - AnacondotAget - INFO - Offered: 0.468769
+2023-04-18 16:44:10,644 - AnacondotAget - INFO - Received Bid: 0.518856
+2023-04-18 16:44:10,746 - AnacondotAget - INFO - Accepted - My Bid: 0.451619, Received: 0.518856
+2023-04-18 16:44:10,759 - AnacondotAget - INFO - agents_hybrid_hybrid_agent_HybridAgent data is saved.
+2023-04-18 16:44:10,759 - AnacondotAget - INFO - Template Agent is terminating.
+2023-04-18 16:46:13,740 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 16:46:13,752 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 16:46:13,944 - AnacondotAget - INFO - Data loaded.
+2023-04-18 16:46:13,944 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:46:14,044 - AnacondotAget - INFO - Offered: 0.975753
+2023-04-18 16:46:14,239 - AnacondotAget - INFO - Received Bid: 0.278181
+2023-04-18 16:46:14,339 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:46:14,405 - AnacondotAget - INFO - Received Bid: 0.528202
+2023-04-18 16:46:14,505 - AnacondotAget - INFO - Offered: 0.934192
+2023-04-18 16:46:14,570 - AnacondotAget - INFO - Received Bid: 0.224457
+2023-04-18 16:46:14,670 - AnacondotAget - INFO - Offered: 0.920472
+2023-04-18 16:46:14,833 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:46:14,932 - AnacondotAget - INFO - Offered: 0.891976
+2023-04-18 16:46:14,996 - AnacondotAget - INFO - Received Bid: 0.186172
+2023-04-18 16:46:15,095 - AnacondotAget - INFO - Offered: 0.874710
+2023-04-18 16:46:15,161 - AnacondotAget - INFO - Received Bid: 0.258212
+2023-04-18 16:46:15,260 - AnacondotAget - INFO - Offered: 0.858382
+2023-04-18 16:46:15,324 - AnacondotAget - INFO - Received Bid: 0.456162
+2023-04-18 16:46:15,425 - AnacondotAget - INFO - Offered: 0.841623
+2023-04-18 16:46:15,490 - AnacondotAget - INFO - Received Bid: 0.528202
+2023-04-18 16:46:15,592 - AnacondotAget - INFO - Offered: 0.825825
+2023-04-18 16:46:15,657 - AnacondotAget - INFO - Received Bid: 0.284118
+2023-04-18 16:46:15,756 - AnacondotAget - INFO - Offered: 0.807994
+2023-04-18 16:46:15,825 - AnacondotAget - INFO - Received Bid: 0.348316
+2023-04-18 16:46:15,925 - AnacondotAget - INFO - Offered: 0.791617
+2023-04-18 16:46:15,990 - AnacondotAget - INFO - Received Bid: 0.234637
+2023-04-18 16:46:16,090 - AnacondotAget - INFO - Offered: 0.774658
+2023-04-18 16:46:16,154 - AnacondotAget - INFO - Received Bid: 0.306677
+2023-04-18 16:46:16,253 - AnacondotAget - INFO - Offered: 0.759027
+2023-04-18 16:46:16,319 - AnacondotAget - INFO - Received Bid: 0.484659
+2023-04-18 16:46:16,419 - AnacondotAget - INFO - Offered: 0.742144
+2023-04-18 16:46:16,485 - AnacondotAget - INFO - Received Bid: 0.502976
+2023-04-18 16:46:16,585 - AnacondotAget - INFO - Offered: 0.725732
+2023-04-18 16:46:16,657 - AnacondotAget - INFO - Received Bid: 0.556699
+2023-04-18 16:46:16,761 - AnacondotAget - INFO - Offered: 0.708454
+2023-04-18 16:46:16,830 - AnacondotAget - INFO - Received Bid: 0.472921
+2023-04-18 16:46:16,932 - AnacondotAget - INFO - Offered: 0.691109
+2023-04-18 16:46:17,000 - AnacondotAget - INFO - Received Bid: 0.494609
+2023-04-18 16:46:17,102 - AnacondotAget - INFO - Offered: 0.674352
+2023-04-18 16:46:17,169 - AnacondotAget - INFO - Received Bid: 0.376813
+2023-04-18 16:46:17,268 - AnacondotAget - INFO - Offered: 0.657194
+2023-04-18 16:46:17,334 - AnacondotAget - INFO - Received Bid: 0.440886
+2023-04-18 16:46:17,434 - AnacondotAget - INFO - Offered: 0.640550
+2023-04-18 16:46:17,501 - AnacondotAget - INFO - Received Bid: 0.502976
+2023-04-18 16:46:17,601 - AnacondotAget - INFO - Offered: 0.623881
+2023-04-18 16:46:17,667 - AnacondotAget - INFO - Received Bid: 0.556699
+2023-04-18 16:46:17,766 - AnacondotAget - INFO - Offered: 0.607527
+2023-04-18 16:46:17,832 - AnacondotAget - INFO - Received Bid: 0.472921
+2023-04-18 16:46:17,932 - AnacondotAget - INFO - Offered: 0.591036
+2023-04-18 16:46:17,998 - AnacondotAget - INFO - Received Bid: 0.494609
+2023-04-18 16:46:18,097 - AnacondotAget - INFO - Offered: 0.574176
+2023-04-18 16:46:18,163 - AnacondotAget - INFO - Received Bid: 0.376813
+2023-04-18 16:46:18,261 - AnacondotAget - INFO - Offered: 0.557841
+2023-04-18 16:46:18,329 - AnacondotAget - INFO - Received Bid: 0.312615
+2023-04-18 16:46:18,429 - AnacondotAget - INFO - Offered: 0.541861
+2023-04-18 16:46:18,496 - AnacondotAget - INFO - Received Bid: 0.522076
+2023-04-18 16:46:18,596 - AnacondotAget - INFO - Offered: 0.524484
+2023-04-18 16:46:18,661 - AnacondotAget - INFO - Received Bid: 0.424432
+2023-04-18 16:46:18,760 - AnacondotAget - INFO - Offered: 0.508183
+2023-04-18 16:46:18,825 - AnacondotAget - INFO - Received Bid: 0.552449
+2023-04-18 16:46:18,924 - AnacondotAget - INFO - Accepted - My Bid: 0.491734, Received: 0.552449
+2023-04-18 16:46:18,937 - AnacondotAget - INFO - agents_hybrid_hybrid_agent_HybridAgent data is saved.
+2023-04-18 16:46:18,937 - AnacondotAget - INFO - Anacondot Aget is terminating.
+2023-04-18 16:49:07,561 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 16:49:07,568 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 16:49:07,672 - AnacondotAget - INFO - Data loaded.
+2023-04-18 16:49:07,672 - AnacondotAget - INFO - Received Bid: 0.206141
+2023-04-18 16:49:07,774 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 16:49:07,876 - AnacondotAget - INFO - Received Bid: 0.278181
+2023-04-18 16:49:07,976 - AnacondotAget - INFO - Offered: 0.969627
+2023-04-18 16:49:08,076 - AnacondotAget - INFO - Received Bid: 0.276276
+2023-04-18 16:49:08,177 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:49:08,277 - AnacondotAget - INFO - Received Bid: 0.284118
+2023-04-18 16:49:08,376 - AnacondotAget - INFO - Offered: 0.934192
+2023-04-18 16:49:08,476 - AnacondotAget - INFO - Received Bid: 0.214669
+2023-04-18 16:49:08,577 - AnacondotAget - INFO - Offered: 0.908303
+2023-04-18 16:49:08,680 - AnacondotAget - INFO - Received Bid: 0.170155
+2023-04-18 16:49:08,779 - AnacondotAget - INFO - Offered: 0.891976
+2023-04-18 16:49:08,879 - AnacondotAget - INFO - Received Bid: 0.344681
+2023-04-18 16:49:08,978 - AnacondotAget - INFO - Offered: 0.867733
+2023-04-18 16:49:09,078 - AnacondotAget - INFO - Received Bid: 0.452385
+2023-04-18 16:49:09,178 - AnacondotAget - INFO - Offered: 0.848450
+2023-04-18 16:49:09,277 - AnacondotAget - INFO - Received Bid: 0.172083
+2023-04-18 16:49:09,378 - AnacondotAget - INFO - Offered: 0.830422
+2023-04-18 16:49:09,479 - AnacondotAget - INFO - Received Bid: 0.490110
+2023-04-18 16:49:09,578 - AnacondotAget - INFO - Offered: 0.807994
+2023-04-18 16:49:09,679 - AnacondotAget - INFO - Received Bid: 0.371279
+2023-04-18 16:49:09,781 - AnacondotAget - INFO - Offered: 0.788206
+2023-04-18 16:49:09,885 - AnacondotAget - INFO - Received Bid: 0.050737
+2023-04-18 16:49:09,989 - AnacondotAget - INFO - Offered: 0.767751
+2023-04-18 16:49:10,093 - AnacondotAget - INFO - Received Bid: 0.127090
+2023-04-18 16:49:10,194 - AnacondotAget - INFO - Offered: 0.747536
+2023-04-18 16:49:10,295 - AnacondotAget - INFO - Received Bid: 0.176813
+2023-04-18 16:49:10,398 - AnacondotAget - INFO - Offered: 0.727216
+2023-04-18 16:49:10,502 - AnacondotAget - INFO - Received Bid: 0.200431
+2023-04-18 16:49:10,604 - AnacondotAget - INFO - Offered: 0.705763
+2023-04-18 16:49:10,704 - AnacondotAget - INFO - Received Bid: 0.272471
+2023-04-18 16:49:10,807 - AnacondotAget - INFO - Offered: 0.685971
+2023-04-18 16:49:10,910 - AnacondotAget - INFO - Received Bid: 0.206368
+2023-04-18 16:49:11,011 - AnacondotAget - INFO - Offered: 0.665080
+2023-04-18 16:49:11,111 - AnacondotAget - INFO - Received Bid: 0.200020
+2023-04-18 16:49:11,210 - AnacondotAget - INFO - Offered: 0.645472
+2023-04-18 16:49:11,310 - AnacondotAget - INFO - Received Bid: 0.184697
+2023-04-18 16:49:11,409 - AnacondotAget - INFO - Offered: 0.625195
+2023-04-18 16:49:11,510 - AnacondotAget - INFO - Received Bid: 0.081282
+2023-04-18 16:49:11,610 - AnacondotAget - INFO - Offered: 0.605256
+2023-04-18 16:49:11,708 - AnacondotAget - INFO - Received Bid: 0.040508
+2023-04-18 16:49:11,807 - AnacondotAget - INFO - Offered: 0.585433
+2023-04-18 16:49:11,907 - AnacondotAget - INFO - Received Bid: 0.266789
+2023-04-18 16:49:12,009 - AnacondotAget - INFO - Offered: 0.565809
+2023-04-18 16:49:12,110 - AnacondotAget - INFO - Received Bid: 0.414595
+2023-04-18 16:49:12,212 - AnacondotAget - INFO - Offered: 0.545219
+2023-04-18 16:49:12,314 - AnacondotAget - INFO - Received Bid: 0.410344
+2023-04-18 16:49:12,413 - AnacondotAget - INFO - Offered: 0.524844
+2023-04-18 16:49:12,511 - AnacondotAget - INFO - Received Bid: 0.367040
+2023-04-18 16:49:12,609 - AnacondotAget - INFO - Offered: 0.505192
+2023-04-18 16:49:12,707 - AnacondotAget - INFO - Received Bid: 0.286573
+2023-04-18 16:49:12,807 - AnacondotAget - INFO - Offered: 0.485551
+2023-04-18 16:49:12,908 - AnacondotAget - INFO - Received Bid: 0.425365
+2023-04-18 16:49:13,009 - AnacondotAget - INFO - Offered: 0.465611
+2023-04-18 16:49:13,109 - AnacondotAget - INFO - Opponent Accepted - Utility: 0.465611
+2023-04-18 16:49:13,120 - AnacondotAget - INFO - agents_template_agent_template_agent_TemplateAgent data is saved.
+2023-04-18 16:49:13,120 - AnacondotAget - INFO - Anacondot Aget is terminating.
+2023-04-18 16:49:53,572 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 16:49:53,584 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 16:49:53,584 - AnacondotAget - INFO - Data loaded.
+2023-04-18 16:49:53,585 - AnacondotAget - INFO - Received Bid: 0.200431
+2023-04-18 16:49:53,686 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 16:49:53,686 - AnacondotAget - INFO - Received Bid: 0.382871
+2023-04-18 16:49:53,787 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 16:49:53,787 - AnacondotAget - INFO - Received Bid: 0.078874
+2023-04-18 16:49:53,888 - AnacondotAget - INFO - Offered: 0.975753
+2023-04-18 16:49:53,888 - AnacondotAget - INFO - Received Bid: 0.237865
+2023-04-18 16:49:53,990 - AnacondotAget - INFO - Offered: 0.969627
+2023-04-18 16:49:53,991 - AnacondotAget - INFO - Received Bid: 0.146755
+2023-04-18 16:49:54,095 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:49:54,096 - AnacondotAget - INFO - Received Bid: 0.337116
+2023-04-18 16:49:54,199 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:49:54,199 - AnacondotAget - INFO - Received Bid: 0.472921
+2023-04-18 16:49:54,303 - AnacondotAget - INFO - Offered: 0.936800
+2023-04-18 16:49:54,303 - AnacondotAget - INFO - Received Bid: 0.168729
+2023-04-18 16:49:54,405 - AnacondotAget - INFO - Offered: 0.922030
+2023-04-18 16:49:54,405 - AnacondotAget - INFO - Received Bid: 0.428020
+2023-04-18 16:49:54,508 - AnacondotAget - INFO - Offered: 0.913663
+2023-04-18 16:49:54,509 - AnacondotAget - INFO - Received Bid: 0.213123
+2023-04-18 16:49:54,611 - AnacondotAget - INFO - Offered: 0.905695
+2023-04-18 16:49:54,611 - AnacondotAget - INFO - Received Bid: 0.334026
+2023-04-18 16:49:54,712 - AnacondotAget - INFO - Offered: 0.896230
+2023-04-18 16:49:54,712 - AnacondotAget - INFO - Received Bid: 0.552449
+2023-04-18 16:49:54,813 - AnacondotAget - INFO - Offered: 0.882043
+2023-04-18 16:49:54,813 - AnacondotAget - INFO - Received Bid: 0.336502
+2023-04-18 16:49:54,914 - AnacondotAget - INFO - Offered: 0.875217
+2023-04-18 16:49:54,915 - AnacondotAget - INFO - Received Bid: 0.338554
+2023-04-18 16:49:55,017 - AnacondotAget - INFO - Offered: 0.865857
+2023-04-18 16:49:55,017 - AnacondotAget - INFO - Received Bid: 0.488483
+2023-04-18 16:49:55,118 - AnacondotAget - INFO - Offered: 0.858382
+2023-04-18 16:49:55,118 - AnacondotAget - INFO - Received Bid: 0.311599
+2023-04-18 16:49:55,219 - AnacondotAget - INFO - Offered: 0.847074
+2023-04-18 16:49:55,219 - AnacondotAget - INFO - Received Bid: 0.188100
+2023-04-18 16:49:55,320 - AnacondotAget - INFO - Offered: 0.835121
+2023-04-18 16:49:55,321 - AnacondotAget - INFO - Received Bid: 0.070705
+2023-04-18 16:49:55,426 - AnacondotAget - INFO - Offered: 0.825825
+2023-04-18 16:49:55,427 - AnacondotAget - INFO - Received Bid: 0.222720
+2023-04-18 16:49:55,532 - AnacondotAget - INFO - Offered: 0.812750
+2023-04-18 16:49:55,533 - AnacondotAget - INFO - Received Bid: 0.240297
+2023-04-18 16:49:55,637 - AnacondotAget - INFO - Offered: 0.803767
+2023-04-18 16:49:55,638 - AnacondotAget - INFO - Received Bid: 0.320113
+2023-04-18 16:49:55,742 - AnacondotAget - INFO - Offered: 0.791617
+2023-04-18 16:49:55,743 - AnacondotAget - INFO - Received Bid: 0.452436
+2023-04-18 16:49:55,847 - AnacondotAget - INFO - Offered: 0.784264
+2023-04-18 16:49:55,848 - AnacondotAget - INFO - Received Bid: 0.218747
+2023-04-18 16:49:55,952 - AnacondotAget - INFO - Offered: 0.772102
+2023-04-18 16:49:55,952 - AnacondotAget - INFO - Received Bid: 0.207915
+2023-04-18 16:49:56,057 - AnacondotAget - INFO - Offered: 0.761836
+2023-04-18 16:49:56,058 - AnacondotAget - INFO - Received Bid: 0.081416
+2023-04-18 16:49:56,161 - AnacondotAget - INFO - Offered: 0.750090
+2023-04-18 16:49:56,162 - AnacondotAget - INFO - Received Bid: 0.630007
+2023-04-18 16:49:56,265 - AnacondotAget - INFO - Offered: 0.740710
+2023-04-18 16:49:56,272 - AnacondotAget - INFO - Opponent Accepted - Utility: 0.740710
+2023-04-18 16:49:56,277 - AnacondotAget - INFO - agents_random_agent_random_agent_RandomAgent data is saved.
+2023-04-18 16:49:56,277 - AnacondotAget - INFO - Anacondot Aget is terminating.
+2023-04-18 16:52:44,722 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 16:52:44,731 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 16:52:44,731 - AnacondotAget - INFO - Data loaded.
+2023-04-18 16:52:44,731 - AnacondotAget - INFO - Received Bid: 0.218747
+2023-04-18 16:52:44,831 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 16:52:44,832 - AnacondotAget - INFO - Received Bid: 0.296717
+2023-04-18 16:52:44,935 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 16:52:44,936 - AnacondotAget - INFO - Received Bid: 0.314723
+2023-04-18 16:52:45,038 - AnacondotAget - INFO - Offered: 0.975753
+2023-04-18 16:52:45,039 - AnacondotAget - INFO - Received Bid: 0.232245
+2023-04-18 16:52:45,142 - AnacondotAget - INFO - Offered: 0.969627
+2023-04-18 16:52:45,142 - AnacondotAget - INFO - Received Bid: 0.372563
+2023-04-18 16:52:45,246 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:52:45,247 - AnacondotAget - INFO - Received Bid: 0.278204
+2023-04-18 16:52:45,348 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 16:52:45,349 - AnacondotAget - INFO - Received Bid: 0.107122
+2023-04-18 16:52:45,449 - AnacondotAget - INFO - Offered: 0.937910
+2023-04-18 16:52:45,449 - AnacondotAget - INFO - Received Bid: 0.219192
+2023-04-18 16:52:45,551 - AnacondotAget - INFO - Offered: 0.922030
+2023-04-18 16:52:45,551 - AnacondotAget - INFO - Received Bid: 0.098675
+2023-04-18 16:52:45,653 - AnacondotAget - INFO - Offered: 0.920472
+2023-04-18 16:52:45,653 - AnacondotAget - INFO - Received Bid: 0.260386
+2023-04-18 16:52:45,754 - AnacondotAget - INFO - Offered: 0.907537
+2023-04-18 16:52:45,755 - AnacondotAget - INFO - Received Bid: 0.416777
+2023-04-18 16:52:45,855 - AnacondotAget - INFO - Offered: 0.896230
+2023-04-18 16:52:45,856 - AnacondotAget - INFO - Received Bid: 0.428781
+2023-04-18 16:52:45,956 - AnacondotAget - INFO - Offered: 0.882043
+2023-04-18 16:52:45,957 - AnacondotAget - INFO - Received Bid: 0.486993
+2023-04-18 16:52:46,057 - AnacondotAget - INFO - Offered: 0.877144
+2023-04-18 16:52:46,057 - AnacondotAget - INFO - Received Bid: 0.438714
+2023-04-18 16:52:46,157 - AnacondotAget - INFO - Offered: 0.865857
+2023-04-18 16:52:46,157 - AnacondotAget - INFO - Received Bid: 0.212967
+2023-04-18 16:52:46,257 - AnacondotAget - INFO - Offered: 0.858382
+2023-04-18 16:52:46,257 - AnacondotAget - INFO - Received Bid: 0.288891
+2023-04-18 16:52:46,357 - AnacondotAget - INFO - Offered: 0.847074
+2023-04-18 16:52:46,357 - AnacondotAget - INFO - Received Bid: 0.200634
+2023-04-18 16:52:46,457 - AnacondotAget - INFO - Offered: 0.836491
+2023-04-18 16:52:46,458 - AnacondotAget - INFO - Received Bid: 0.301077
+2023-04-18 16:52:46,557 - AnacondotAget - INFO - Offered: 0.825825
+2023-04-18 16:52:46,557 - AnacondotAget - INFO - Received Bid: 0.138341
+2023-04-18 16:52:46,659 - AnacondotAget - INFO - Offered: 0.816702
+2023-04-18 16:52:46,659 - AnacondotAget - INFO - Received Bid: 0.222065
+2023-04-18 16:52:46,763 - AnacondotAget - INFO - Offered: 0.806624
+2023-04-18 16:52:46,764 - AnacondotAget - INFO - Received Bid: 0.230942
+2023-04-18 16:52:46,867 - AnacondotAget - INFO - Offered: 0.795867
+2023-04-18 16:52:46,867 - AnacondotAget - INFO - Received Bid: 0.045281
+2023-04-18 16:52:46,968 - AnacondotAget - INFO - Offered: 0.785966
+2023-04-18 16:52:46,968 - AnacondotAget - INFO - Received Bid: 0.174664
+2023-04-18 16:52:47,070 - AnacondotAget - INFO - Offered: 0.776033
+2023-04-18 16:52:47,071 - AnacondotAget - INFO - Received Bid: 0.422569
+2023-04-18 16:52:47,173 - AnacondotAget - INFO - Offered: 0.765430
+2023-04-18 16:52:47,174 - AnacondotAget - INFO - Received Bid: 0.074101
+2023-04-18 16:52:47,278 - AnacondotAget - INFO - Offered: 0.754612
+2023-04-18 16:52:47,279 - AnacondotAget - INFO - Received Bid: 0.208382
+2023-04-18 16:52:47,383 - AnacondotAget - INFO - Offered: 0.744680
+2023-04-18 16:52:47,383 - AnacondotAget - INFO - Received Bid: 0.243974
+2023-04-18 16:52:47,484 - AnacondotAget - INFO - Offered: 0.734076
+2023-04-18 16:52:47,484 - AnacondotAget - INFO - Received Bid: 0.211571
+2023-04-18 16:52:47,587 - AnacondotAget - INFO - Offered: 0.723876
+2023-04-18 16:52:47,587 - AnacondotAget - INFO - Received Bid: 0.195887
+2023-04-18 16:52:47,692 - AnacondotAget - INFO - Offered: 0.713647
+2023-04-18 16:52:47,693 - AnacondotAget - INFO - Received Bid: 0.247401
+2023-04-18 16:52:47,796 - AnacondotAget - INFO - Offered: 0.703172
+2023-04-18 16:52:47,797 - AnacondotAget - INFO - Received Bid: 0.509005
+2023-04-18 16:52:47,897 - AnacondotAget - INFO - Offered: 0.692715
+2023-04-18 16:52:47,897 - AnacondotAget - INFO - Received Bid: 0.141578
+2023-04-18 16:52:47,998 - AnacondotAget - INFO - Offered: 0.682719
+2023-04-18 16:52:47,999 - AnacondotAget - INFO - Received Bid: 0.085536
+2023-04-18 16:52:48,100 - AnacondotAget - INFO - Offered: 0.672453
+2023-04-18 16:52:48,100 - AnacondotAget - INFO - Received Bid: 0.390290
+2023-04-18 16:52:48,201 - AnacondotAget - INFO - Offered: 0.661743
+2023-04-18 16:52:48,202 - AnacondotAget - INFO - Received Bid: 0.112574
+2023-04-18 16:52:48,302 - AnacondotAget - INFO - Offered: 0.652146
+2023-04-18 16:52:48,302 - AnacondotAget - INFO - Received Bid: 0.118372
+2023-04-18 16:52:48,405 - AnacondotAget - INFO - Offered: 0.641954
+2023-04-18 16:52:48,406 - AnacondotAget - INFO - Received Bid: 0.352538
+2023-04-18 16:52:48,508 - AnacondotAget - INFO - Offered: 0.632021
+2023-04-18 16:52:48,508 - AnacondotAget - INFO - Received Bid: 0.242195
+2023-04-18 16:52:48,609 - AnacondotAget - INFO - Offered: 0.621518
+2023-04-18 16:52:48,610 - AnacondotAget - INFO - Received Bid: 0.218779
+2023-04-18 16:52:48,710 - AnacondotAget - INFO - Offered: 0.611795
+2023-04-18 16:52:48,710 - AnacondotAget - INFO - Received Bid: 0.335252
+2023-04-18 16:52:48,811 - AnacondotAget - INFO - Offered: 0.601449
+2023-04-18 16:52:48,812 - AnacondotAget - INFO - Received Bid: 0.144278
+2023-04-18 16:52:48,912 - AnacondotAget - INFO - Offered: 0.591138
+2023-04-18 16:52:48,912 - AnacondotAget - INFO - Received Bid: 0.256751
+2023-04-18 16:52:49,012 - AnacondotAget - INFO - Offered: 0.581128
+2023-04-18 16:52:49,013 - AnacondotAget - INFO - Received Bid: 0.324551
+2023-04-18 16:52:49,112 - AnacondotAget - INFO - Offered: 0.571257
+2023-04-18 16:52:49,113 - AnacondotAget - INFO - Received Bid: 0.252502
+2023-04-18 16:52:49,215 - AnacondotAget - INFO - Offered: 0.560824
+2023-04-18 16:52:49,216 - AnacondotAget - INFO - Opponent Accepted - Utility: 0.560824
+2023-04-18 16:52:49,232 - AnacondotAget - INFO - agents_random_agent_random_agent_RandomAgent data is saved.
+2023-04-18 16:52:49,232 - AnacondotAget - INFO - Anacondot Aget is terminating.
+2023-04-18 17:09:58,144 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 17:09:58,152 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 17:09:58,152 - AnacondotAget - INFO - Data loaded.
+2023-04-18 17:09:58,152 - AnacondotAget - INFO - Received Bid: 0.210339
+2023-04-18 17:09:58,254 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 17:09:58,255 - AnacondotAget - INFO - Received Bid: 0.236069
+2023-04-18 17:09:58,357 - AnacondotAget - INFO - Offered: 1.000000
+2023-04-18 17:09:58,358 - AnacondotAget - INFO - Received Bid: 0.188095
+2023-04-18 17:09:58,460 - AnacondotAget - INFO - Offered: 0.975753
+2023-04-18 17:09:58,460 - AnacondotAget - INFO - Received Bid: 0.177871
+2023-04-18 17:09:58,563 - AnacondotAget - INFO - Offered: 0.969627
+2023-04-18 17:09:58,563 - AnacondotAget - INFO - Received Bid: 0.185913
+2023-04-18 17:09:58,665 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 17:09:58,666 - AnacondotAget - INFO - Received Bid: 0.213548
+2023-04-18 17:09:58,767 - AnacondotAget - INFO - Offered: 0.947257
+2023-04-18 17:09:58,768 - AnacondotAget - INFO - Received Bid: 0.353048
+2023-04-18 17:09:58,867 - AnacondotAget - INFO - Offered: 0.937910
+2023-04-18 17:09:58,868 - AnacondotAget - INFO - Received Bid: 0.243974
+2023-04-18 17:09:58,971 - AnacondotAget - INFO - Offered: 0.922030
+2023-04-18 17:09:58,971 - AnacondotAget - INFO - Received Bid: 0.096864
+2023-04-18 17:09:59,073 - AnacondotAget - INFO - Offered: 0.920472
+2023-04-18 17:09:59,074 - AnacondotAget - INFO - Received Bid: 0.202358
+2023-04-18 17:09:59,175 - AnacondotAget - INFO - Offered: 0.907537
+2023-04-18 17:09:59,175 - AnacondotAget - INFO - Received Bid: 0.202931
+2023-04-18 17:09:59,277 - AnacondotAget - INFO - Offered: 0.896230
+2023-04-18 17:09:59,278 - AnacondotAget - INFO - Received Bid: 0.262107
+2023-04-18 17:09:59,378 - AnacondotAget - INFO - Offered: 0.882043
+2023-04-18 17:09:59,378 - AnacondotAget - INFO - Received Bid: 0.296874
+2023-04-18 17:09:59,477 - AnacondotAget - INFO - Offered: 0.877144
+2023-04-18 17:09:59,478 - AnacondotAget - INFO - Received Bid: 0.175697
+2023-04-18 17:09:59,577 - AnacondotAget - INFO - Offered: 0.865857
+2023-04-18 17:09:59,577 - AnacondotAget - INFO - Received Bid: 0.273162
+2023-04-18 17:09:59,676 - AnacondotAget - INFO - Offered: 0.858382
+2023-04-18 17:09:59,676 - AnacondotAget - INFO - Received Bid: 0.417437
+2023-04-18 17:09:59,775 - AnacondotAget - INFO - Offered: 0.847074
+2023-04-18 17:09:59,776 - AnacondotAget - INFO - Received Bid: 0.365210
+2023-04-18 17:09:59,877 - AnacondotAget - INFO - Offered: 0.836997
+2023-04-18 17:09:59,878 - AnacondotAget - INFO - Received Bid: 0.501418
+2023-04-18 17:09:59,981 - AnacondotAget - INFO - Offered: 0.825825
+2023-04-18 17:09:59,982 - AnacondotAget - INFO - Received Bid: 0.062608
+2023-04-18 17:10:00,084 - AnacondotAget - INFO - Offered: 0.816702
+2023-04-18 17:10:00,084 - AnacondotAget - INFO - Received Bid: 0.085357
+2023-04-18 17:10:00,185 - AnacondotAget - INFO - Offered: 0.805755
+2023-04-18 17:10:00,186 - AnacondotAget - INFO - Received Bid: 0.321532
+2023-04-18 17:10:00,288 - AnacondotAget - INFO - Offered: 0.795867
+2023-04-18 17:10:00,288 - AnacondotAget - INFO - Received Bid: 0.480964
+2023-04-18 17:10:00,392 - AnacondotAget - INFO - Offered: 0.785966
+2023-04-18 17:10:00,392 - AnacondotAget - INFO - Received Bid: 0.458503
+2023-04-18 17:10:00,495 - AnacondotAget - INFO - Offered: 0.774658
+2023-04-18 17:10:00,495 - AnacondotAget - INFO - Received Bid: 0.320727
+2023-04-18 17:10:00,595 - AnacondotAget - INFO - Offered: 0.764664
+2023-04-18 17:10:00,596 - AnacondotAget - INFO - Received Bid: 0.213069
+2023-04-18 17:10:00,695 - AnacondotAget - INFO - Offered: 0.754612
+2023-04-18 17:10:00,695 - AnacondotAget - INFO - Received Bid: 0.134645
+2023-04-18 17:10:00,795 - AnacondotAget - INFO - Offered: 0.744680
+2023-04-18 17:10:00,795 - AnacondotAget - INFO - Received Bid: 0.226793
+2023-04-18 17:10:00,896 - AnacondotAget - INFO - Offered: 0.734158
+2023-04-18 17:10:00,897 - AnacondotAget - INFO - Received Bid: 0.137876
+2023-04-18 17:10:00,997 - AnacondotAget - INFO - Offered: 0.724782
+2023-04-18 17:10:00,997 - AnacondotAget - INFO - Received Bid: 0.183322
+2023-04-18 17:10:01,099 - AnacondotAget - INFO - Offered: 0.715565
+2023-04-18 17:10:01,100 - AnacondotAget - INFO - Received Bid: 0.342606
+2023-04-18 17:10:01,200 - AnacondotAget - INFO - Offered: 0.703422
+2023-04-18 17:10:01,200 - AnacondotAget - INFO - Received Bid: 0.337116
+2023-04-18 17:10:01,299 - AnacondotAget - INFO - Offered: 0.694824
+2023-04-18 17:10:01,300 - AnacondotAget - INFO - Received Bid: 0.376813
+2023-04-18 17:10:01,399 - AnacondotAget - INFO - Offered: 0.684585
+2023-04-18 17:10:01,399 - AnacondotAget - INFO - Received Bid: 0.137801
+2023-04-18 17:10:01,499 - AnacondotAget - INFO - Offered: 0.674352
+2023-04-18 17:10:01,499 - AnacondotAget - INFO - Received Bid: 0.268793
+2023-04-18 17:10:01,598 - AnacondotAget - INFO - Offered: 0.664402
+2023-04-18 17:10:01,598 - AnacondotAget - INFO - Received Bid: 0.188095
+2023-04-18 17:10:01,696 - AnacondotAget - INFO - Offered: 0.654605
+2023-04-18 17:10:01,697 - AnacondotAget - INFO - Received Bid: 0.116737
+2023-04-18 17:10:01,796 - AnacondotAget - INFO - Offered: 0.645472
+2023-04-18 17:10:01,796 - AnacondotAget - INFO - Received Bid: 0.215032
+2023-04-18 17:10:01,895 - AnacondotAget - INFO - Offered: 0.635399
+2023-04-18 17:10:01,896 - AnacondotAget - INFO - Received Bid: 0.236031
+2023-04-18 17:10:01,995 - AnacondotAget - INFO - Offered: 0.624731
+2023-04-18 17:10:01,995 - AnacondotAget - INFO - Received Bid: 0.198687
+2023-04-18 17:10:02,095 - AnacondotAget - INFO - Offered: 0.614735
+2023-04-18 17:10:02,095 - AnacondotAget - INFO - Received Bid: 0.273043
+2023-04-18 17:10:02,194 - AnacondotAget - INFO - Offered: 0.605061
+2023-04-18 17:10:02,194 - AnacondotAget - INFO - Received Bid: 0.308575
+2023-04-18 17:10:02,293 - AnacondotAget - INFO - Offered: 0.594938
+2023-04-18 17:10:02,294 - AnacondotAget - INFO - Received Bid: 0.209368
+2023-04-18 17:10:02,393 - AnacondotAget - INFO - Offered: 0.585099
+2023-04-18 17:10:02,393 - AnacondotAget - INFO - Received Bid: 0.196735
+2023-04-18 17:10:02,491 - AnacondotAget - INFO - Offered: 0.575506
+2023-04-18 17:10:02,492 - AnacondotAget - INFO - Received Bid: 0.246025
+2023-04-18 17:10:02,590 - AnacondotAget - INFO - Offered: 0.565222
+2023-04-18 17:10:02,591 - AnacondotAget - INFO - Received Bid: 0.282459
+2023-04-18 17:10:02,689 - AnacondotAget - INFO - Offered: 0.555373
+2023-04-18 17:10:02,689 - AnacondotAget - INFO - Received Bid: 0.237526
+2023-04-18 17:10:02,788 - AnacondotAget - INFO - Offered: 0.545679
+2023-04-18 17:10:02,789 - AnacondotAget - INFO - Received Bid: 0.368314
+2023-04-18 17:10:02,887 - AnacondotAget - INFO - Offered: 0.535765
+2023-04-18 17:10:02,888 - AnacondotAget - INFO - Received Bid: 0.129840
+2023-04-18 17:10:02,987 - AnacondotAget - INFO - Offered: 0.525728
+2023-04-18 17:10:02,987 - AnacondotAget - INFO - Received Bid: 0.562729
+2023-04-18 17:10:03,087 - AnacondotAget - INFO - Accepted - My Bid: 0.515795, Received: 0.562729
+2023-04-18 17:10:03,106 - AnacondotAget - INFO - agents_random_agent_random_agent_RandomAgent data is saved.
+2023-04-18 17:10:03,106 - AnacondotAget - INFO - Anacondot Aget is terminating.
+2023-04-18 17:11:02,818 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 17:11:02,826 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 17:11:02,826 - AnacondotAget - INFO - Data loaded.
+2023-04-18 17:11:02,826 - AnacondotAget - INFO - Received Bid: 0.207492
+2023-04-18 17:11:47,399 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 17:11:47,405 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 17:11:47,405 - AnacondotAget - INFO - Data loaded.
+2023-04-18 17:11:47,405 - AnacondotAget - INFO - Received Bid: 0.480964
+2023-04-18 17:13:25,617 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 17:13:25,624 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 17:13:25,625 - AnacondotAget - INFO - Data loaded.
+2023-04-18 17:13:25,626 - AnacondotAget - INFO - Received Bid: 0.123932
+2023-04-18 17:14:48,411 - AnacondotAget - INFO - Anacondot Aget is initialized.
+2023-04-18 17:14:48,416 - AnacondotAget - INFO - Anacondot Aget is ready.
+2023-04-18 17:14:48,417 - AnacondotAget - INFO - Data loaded.
+2023-04-18 17:14:48,418 - AnacondotAget - INFO - Received Bid: 0.406679

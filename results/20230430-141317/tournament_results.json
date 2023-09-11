@@ -1,0 +1,1102 @@
+[
+  {
+    "num_offers": 164,
+    "agent_1": "ColmanAnacondotAgent2",
+    "utility_1": 0.3851871292,
+    "agent_2": "HybridAgent",
+    "utility_2": 0.8935333512,
+    "nash_product": 0.3441775463931834,
+    "social_welfare": 1.2787204804,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 722,
+    "agent_3": "ColmanAnacondotAgent2",
+    "utility_3": 0.2273268976,
+    "agent_4": "HardlinerAgent",
+    "utility_4": 1.0,
+    "nash_product": 0.2273268976,
+    "social_welfare": 1.2273268976,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 253,
+    "agent_5": "ColmanAnacondotAgent2",
+    "utility_5": 0.9453143368,
+    "agent_6": "TimeDependentAgent",
+    "utility_6": 0.474478944,
+    "nash_product": 0.44853174827292436,
+    "social_welfare": 1.4197932808,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_7": "ColmanAnacondotAgent2",
+    "utility_7": 0.954963904,
+    "agent_8": "StupidAgent",
+    "utility_8": 0.2351679077,
+    "nash_product": 0.22457686323270368,
+    "social_welfare": 1.1901318117,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 720,
+    "agent_9": "ColmanAnacondotAgent2",
+    "utility_9": 0.3334468976,
+    "agent_10": "DreamTeam109Agent",
+    "utility_10": 0.9037133998,
+    "nash_product": 0.30134042948285844,
+    "social_welfare": 1.2371602974,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 718,
+    "agent_11": "ColmanAnacondotAgent2",
+    "utility_11": 0.3980127924,
+    "agent_12": "Agent4410",
+    "utility_12": 0.8752165734,
+    "nash_product": 0.34834739233369355,
+    "social_welfare": 1.2732293658,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 508,
+    "agent_13": "ColmanAnacondotAgent2",
+    "utility_13": 0.9453143368,
+    "agent_14": "AgentFish",
+    "utility_14": 0.474478944,
+    "nash_product": 0.44853174827292436,
+    "social_welfare": 1.4197932808,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 592,
+    "agent_15": "ColmanAnacondotAgent2",
+    "utility_15": 0.8723447992,
+    "agent_16": "AgentFO2",
+    "utility_16": 0.5566990027,
+    "nash_product": 0.4856334797251717,
+    "social_welfare": 1.4290438018999998,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 636,
+    "agent_17": "ColmanAnacondotAgent2",
+    "utility_17": 0.8723447992,
+    "agent_18": "BoulwareAgent",
+    "utility_18": 0.5566990027,
+    "nash_product": 0.4856334797251717,
+    "social_welfare": 1.4290438018999998,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 716,
+    "agent_19": "ColmanAnacondotAgent2",
+    "utility_19": 0.2273268976,
+    "agent_20": "LuckyAgent2022",
+    "utility_20": 1.0,
+    "nash_product": 0.2273268976,
+    "social_welfare": 1.2273268976,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 203,
+    "agent_21": "HybridAgent",
+    "utility_21": 0.936910694,
+    "agent_22": "ColmanAnacondotAgent2",
+    "utility_22": 0.5282021763,
+    "nash_product": 0.4948782675695434,
+    "social_welfare": 1.4651128703,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 290,
+    "agent_23": "HybridAgent",
+    "utility_23": 0,
+    "agent_24": "HardlinerAgent",
+    "utility_24": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 100,
+    "agent_25": "HybridAgent",
+    "utility_25": 0.7874541052,
+    "agent_26": "TimeDependentAgent",
+    "utility_26": 0.5809455928,
+    "nash_product": 0.4574679919482076,
+    "social_welfare": 1.3683996980000002,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_27": "HybridAgent",
+    "utility_27": 1.0,
+    "agent_28": "StupidAgent",
+    "utility_28": 0.2061406266,
+    "nash_product": 0.2061406266,
+    "social_welfare": 1.2061406265999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 300,
+    "agent_29": "HybridAgent",
+    "utility_29": 0,
+    "agent_30": "DreamTeam109Agent",
+    "utility_30": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 254,
+    "agent_31": "HybridAgent",
+    "utility_31": 0,
+    "agent_32": "Agent4410",
+    "utility_32": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 244,
+    "agent_33": "HybridAgent",
+    "utility_33": 0.7558724524,
+    "agent_34": "AgentFish",
+    "utility_34": 0.3828168622,
+    "nash_product": 0.2893607204511869,
+    "social_welfare": 1.1386893146000001,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 190,
+    "agent_35": "HybridAgent",
+    "utility_35": 0.7874541052,
+    "agent_36": "AgentFO2",
+    "utility_36": 0.5809455928,
+    "nash_product": 0.4574679919482076,
+    "social_welfare": 1.3683996980000002,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 264,
+    "agent_37": "HybridAgent",
+    "utility_37": 0.7389908309,
+    "agent_38": "BoulwareAgent",
+    "utility_38": 0.4219552506,
+    "nash_product": 0.3118210612435117,
+    "social_welfare": 1.1609460815,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 280,
+    "agent_39": "HybridAgent",
+    "utility_39": 0,
+    "agent_40": "LuckyAgent2022",
+    "utility_40": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 767,
+    "agent_41": "HardlinerAgent",
+    "utility_41": 1.0,
+    "agent_42": "ColmanAnacondotAgent2",
+    "utility_42": 0.2061406266,
+    "nash_product": 0.2061406266,
+    "social_welfare": 1.2061406265999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 235,
+    "agent_43": "HardlinerAgent",
+    "utility_43": 0,
+    "agent_44": "HybridAgent",
+    "utility_44": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 2828,
+    "agent_45": "HardlinerAgent",
+    "utility_45": 0.9871743368,
+    "agent_46": "TimeDependentAgent",
+    "utility_46": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_47": "HardlinerAgent",
+    "utility_47": 1.0,
+    "agent_48": "StupidAgent",
+    "utility_48": 0.2061406266,
+    "nash_product": 0.2061406266,
+    "social_welfare": 1.2061406265999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 18663,
+    "agent_49": "HardlinerAgent",
+    "utility_49": 0,
+    "agent_50": "DreamTeam109Agent",
+    "utility_50": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1694,
+    "agent_51": "HardlinerAgent",
+    "utility_51": 0.9871743368,
+    "agent_52": "Agent4410",
+    "utility_52": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 5814,
+    "agent_53": "HardlinerAgent",
+    "utility_53": 0.9871743368,
+    "agent_54": "AgentFish",
+    "utility_54": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 9417,
+    "agent_55": "HardlinerAgent",
+    "utility_55": 0,
+    "agent_56": "AgentFO2",
+    "utility_56": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 14058,
+    "agent_57": "HardlinerAgent",
+    "utility_57": 0.9871743368,
+    "agent_58": "BoulwareAgent",
+    "utility_58": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3475,
+    "agent_59": "HardlinerAgent",
+    "utility_59": 0,
+    "agent_60": "LuckyAgent2022",
+    "utility_60": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 346,
+    "agent_61": "TimeDependentAgent",
+    "utility_61": 0.3980127924,
+    "agent_62": "ColmanAnacondotAgent2",
+    "utility_62": 0.8752165734,
+    "nash_product": 0.34834739233369355,
+    "social_welfare": 1.2732293658,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 97,
+    "agent_63": "TimeDependentAgent",
+    "utility_63": 0.3980127924,
+    "agent_64": "HybridAgent",
+    "utility_64": 0.8752165734,
+    "nash_product": 0.34834739233369355,
+    "social_welfare": 1.2732293658,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2529,
+    "agent_65": "TimeDependentAgent",
+    "utility_65": 0.3122175916,
+    "agent_66": "HardlinerAgent",
+    "utility_66": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_67": "TimeDependentAgent",
+    "utility_67": 0.9871743368,
+    "agent_68": "StupidAgent",
+    "utility_68": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2263,
+    "agent_69": "TimeDependentAgent",
+    "utility_69": 0.3767834864,
+    "agent_70": "DreamTeam109Agent",
+    "utility_70": 0.9472565835,
+    "nash_product": 0.3569106380464827,
+    "social_welfare": 1.3240400699,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1629,
+    "agent_71": "TimeDependentAgent",
+    "utility_71": 0.8556323248,
+    "agent_72": "Agent4410",
+    "utility_72": 0.5220757455,
+    "nash_product": 0.44670488384385815,
+    "social_welfare": 1.3777080703,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 859,
+    "agent_73": "TimeDependentAgent",
+    "utility_73": 0.5787971571,
+    "agent_74": "AgentFish",
+    "utility_74": 0.8127501543,
+    "nash_product": 0.4704174787414263,
+    "social_welfare": 1.3915473114,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2232,
+    "agent_75": "TimeDependentAgent",
+    "utility_75": 0.3980127924,
+    "agent_76": "AgentFO2",
+    "utility_76": 0.8752165734,
+    "nash_product": 0.34834739233369355,
+    "social_welfare": 1.2732293658,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2949,
+    "agent_77": "TimeDependentAgent",
+    "utility_77": 0.3387511396,
+    "agent_78": "BoulwareAgent",
+    "utility_78": 0.877144443,
+    "nash_product": 0.2971336796600572,
+    "social_welfare": 1.2158955826,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1651,
+    "agent_79": "TimeDependentAgent",
+    "utility_79": 0.3767834864,
+    "agent_80": "LuckyAgent2022",
+    "utility_80": 0.9472565835,
+    "nash_product": 0.3569106380464827,
+    "social_welfare": 1.3240400699,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_81": "StupidAgent",
+    "utility_81": 0.2309392224,
+    "agent_82": "ColmanAnacondotAgent2",
+    "utility_82": 0.9696269791,
+    "nash_product": 0.22392490057141504,
+    "social_welfare": 1.2005662015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_83": "StupidAgent",
+    "utility_83": 0.2273268976,
+    "agent_84": "HybridAgent",
+    "utility_84": 1.0,
+    "nash_product": 0.2273268976,
+    "social_welfare": 1.2273268976,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_85": "StupidAgent",
+    "utility_85": 0.2273268976,
+    "agent_86": "HardlinerAgent",
+    "utility_86": 1.0,
+    "nash_product": 0.2273268976,
+    "social_welfare": 1.2273268976,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_87": "StupidAgent",
+    "utility_87": 0.3122175916,
+    "agent_88": "TimeDependentAgent",
+    "utility_88": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_89": "StupidAgent",
+    "utility_89": 0.2431133088,
+    "agent_90": "DreamTeam109Agent",
+    "utility_90": 0.9204723541,
+    "nash_product": 0.22377907966417623,
+    "social_welfare": 1.1635856628999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_91": "StupidAgent",
+    "utility_91": 0.238652346,
+    "agent_92": "Agent4410",
+    "utility_92": 0.8196988322,
+    "nash_product": 0.19562304931799032,
+    "social_welfare": 1.0583511782,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_93": "StupidAgent",
+    "utility_93": 0.1907301816,
+    "agent_94": "AgentFish",
+    "utility_94": 0.6786527527,
+    "nash_product": 0.1294395627658109,
+    "social_welfare": 0.8693829343,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_95": "StupidAgent",
+    "utility_95": 0.2918927924,
+    "agent_96": "AgentFO2",
+    "utility_96": 0.9715031736,
+    "nash_product": 0.283574774167566,
+    "social_welfare": 1.263395966,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_97": "StupidAgent",
+    "utility_97": 0.3122175916,
+    "agent_98": "BoulwareAgent",
+    "utility_98": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_99": "StupidAgent",
+    "utility_99": 0.3122175916,
+    "agent_100": "LuckyAgent2022",
+    "utility_100": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 723,
+    "agent_101": "DreamTeam109Agent",
+    "utility_101": 0.95814,
+    "agent_102": "ColmanAnacondotAgent2",
+    "utility_102": 0.4561621662,
+    "nash_product": 0.437067217922868,
+    "social_welfare": 1.4143021662,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 189,
+    "agent_103": "DreamTeam109Agent",
+    "utility_103": 0,
+    "agent_104": "HybridAgent",
+    "utility_104": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 15282,
+    "agent_105": "DreamTeam109Agent",
+    "utility_105": 0,
+    "agent_106": "HardlinerAgent",
+    "utility_106": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1558,
+    "agent_107": "DreamTeam109Agent",
+    "utility_107": 0.9453143368,
+    "agent_108": "TimeDependentAgent",
+    "utility_108": 0.474478944,
+    "nash_product": 0.44853174827292436,
+    "social_welfare": 1.4197932808,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_109": "DreamTeam109Agent",
+    "utility_109": 1.0,
+    "agent_110": "StupidAgent",
+    "utility_110": 0.2061406266,
+    "nash_product": 0.2061406266,
+    "social_welfare": 1.2061406265999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1655,
+    "agent_111": "DreamTeam109Agent",
+    "utility_111": 0.9465602612,
+    "agent_112": "Agent4410",
+    "utility_112": 0.28889114,
+    "nash_product": 0.2734528729367658,
+    "social_welfare": 1.2354514012,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3976,
+    "agent_113": "DreamTeam109Agent",
+    "utility_113": 0.9593346844,
+    "agent_114": "AgentFish",
+    "utility_114": 0.2120777067,
+    "nash_product": 0.20345349982532027,
+    "social_welfare": 1.1714123911,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 5770,
+    "agent_115": "DreamTeam109Agent",
+    "utility_115": 0.9453143368,
+    "agent_116": "AgentFO2",
+    "utility_116": 0.474478944,
+    "nash_product": 0.44853174827292436,
+    "social_welfare": 1.4197932808,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 8506,
+    "agent_117": "DreamTeam109Agent",
+    "utility_117": 0.95814,
+    "agent_118": "BoulwareAgent",
+    "utility_118": 0.4561621662,
+    "nash_product": 0.437067217922868,
+    "social_welfare": 1.4143021662,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2969,
+    "agent_119": "DreamTeam109Agent",
+    "utility_119": 0,
+    "agent_120": "LuckyAgent2022",
+    "utility_120": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 579,
+    "agent_121": "Agent4410",
+    "utility_121": 0.85202,
+    "agent_122": "ColmanAnacondotAgent2",
+    "utility_122": 0.5524487664,
+    "nash_product": 0.470697397948128,
+    "social_welfare": 1.4044687664,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 251,
+    "agent_123": "Agent4410",
+    "utility_123": 0,
+    "agent_124": "HybridAgent",
+    "utility_124": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1714,
+    "agent_125": "Agent4410",
+    "utility_125": 0,
+    "agent_126": "HardlinerAgent",
+    "utility_126": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1622,
+    "agent_127": "Agent4410",
+    "utility_127": 0.8032405164,
+    "agent_128": "TimeDependentAgent",
+    "utility_128": 0.5014179469,
+    "nash_product": 0.40275921060018377,
+    "social_welfare": 1.3046584633,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_129": "Agent4410",
+    "utility_129": 0.9087343368,
+    "agent_130": "StupidAgent",
+    "utility_130": 0.1206874044,
+    "nash_product": 0.1096727883975474,
+    "social_welfare": 1.0294217412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1689,
+    "agent_131": "Agent4410",
+    "utility_131": 0.3767834864,
+    "agent_132": "DreamTeam109Agent",
+    "utility_132": 0.9472565835,
+    "nash_product": 0.3569106380464827,
+    "social_welfare": 1.3240400699,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1639,
+    "agent_133": "Agent4410",
+    "utility_133": 0.2741852448,
+    "agent_134": "AgentFish",
+    "utility_134": 0.9056412694,
+    "nash_product": 0.24831347315142174,
+    "social_welfare": 1.1798265142,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1642,
+    "agent_135": "Agent4410",
+    "utility_135": 0.3334468976,
+    "agent_136": "AgentFO2",
+    "utility_136": 0.9037133998,
+    "nash_product": 0.30134042948285844,
+    "social_welfare": 1.2371602974,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1660,
+    "agent_137": "Agent4410",
+    "utility_137": 0.2918927924,
+    "agent_138": "BoulwareAgent",
+    "utility_138": 0.9715031736,
+    "nash_product": 0.283574774167566,
+    "social_welfare": 1.263395966,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1631,
+    "agent_139": "Agent4410",
+    "utility_139": 0.2955051172,
+    "agent_140": "LuckyAgent2022",
+    "utility_140": 0.9411301527,
+    "nash_product": 0.2781087760740674,
+    "social_welfare": 1.2366352699,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 489,
+    "agent_141": "AgentFish",
+    "utility_141": 0.3122175916,
+    "agent_142": "ColmanAnacondotAgent2",
+    "utility_142": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 177,
+    "agent_143": "AgentFish",
+    "utility_143": 0.3775846868,
+    "agent_144": "HybridAgent",
+    "utility_144": 0.7673703462,
+    "nash_product": 0.28974729182953457,
+    "social_welfare": 1.144955033,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 4221,
+    "agent_145": "AgentFish",
+    "utility_145": 0.2273268976,
+    "agent_146": "HardlinerAgent",
+    "utility_146": 1.0,
+    "nash_product": 0.2273268976,
+    "social_welfare": 1.2273268976,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1059,
+    "agent_147": "AgentFish",
+    "utility_147": 0.8183732284,
+    "agent_148": "TimeDependentAgent",
+    "utility_148": 0.4901098624,
+    "nash_product": 0.4010927903629678,
+    "social_welfare": 1.3084830908,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_149": "AgentFish",
+    "utility_149": 0.6895851677,
+    "agent_150": "StupidAgent",
+    "utility_150": 0.0864804888,
+    "nash_product": 0.059635662371925975,
+    "social_welfare": 0.7760656565,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3647,
+    "agent_151": "AgentFish",
+    "utility_151": 0.3122175916,
+    "agent_152": "DreamTeam109Agent",
+    "utility_152": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1647,
+    "agent_153": "AgentFish",
+    "utility_153": 0.9142047992,
+    "agent_154": "Agent4410",
+    "utility_154": 0.3066774631,
+    "nash_product": 0.2803660085725009,
+    "social_welfare": 1.2208822623,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2499,
+    "agent_155": "AgentFish",
+    "utility_155": 0.339055916,
+    "agent_156": "AgentFO2",
+    "utility_156": 0.6916952529,
+    "nash_product": 0.23452336756486117,
+    "social_welfare": 1.0307511689,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2929,
+    "agent_157": "AgentFish",
+    "utility_157": 0.3281666964,
+    "agent_158": "BoulwareAgent",
+    "utility_158": 0.6206291413,
+    "nash_product": 0.20366981498998982,
+    "social_welfare": 0.9487958377000001,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1893,
+    "agent_159": "AgentFish",
+    "utility_159": 0.3767834864,
+    "agent_160": "LuckyAgent2022",
+    "utility_160": 0.9472565835,
+    "nash_product": 0.3569106380464827,
+    "social_welfare": 1.3240400699,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 533,
+    "agent_161": "AgentFO2",
+    "utility_161": 0.936910694,
+    "agent_162": "ColmanAnacondotAgent2",
+    "utility_162": 0.5282021763,
+    "nash_product": 0.4948782675695434,
+    "social_welfare": 1.4651128703,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 216,
+    "agent_163": "AgentFO2",
+    "utility_163": 0,
+    "agent_164": "HybridAgent",
+    "utility_164": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 6222,
+    "agent_165": "AgentFO2",
+    "utility_165": 0,
+    "agent_166": "HardlinerAgent",
+    "utility_166": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1603,
+    "agent_167": "AgentFO2",
+    "utility_167": 0.8829391232,
+    "agent_168": "TimeDependentAgent",
+    "utility_168": 0.461613036,
+    "nash_product": 0.40757620926353,
+    "social_welfare": 1.3445521592,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_169": "AgentFO2",
+    "utility_169": 0.9530274604,
+    "agent_170": "StupidAgent",
+    "utility_170": 0.3245507971,
+    "nash_product": 0.3093058219310087,
+    "social_welfare": 1.2775782575,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 4236,
+    "agent_171": "AgentFO2",
+    "utility_171": 0,
+    "agent_172": "DreamTeam109Agent",
+    "utility_172": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1637,
+    "agent_173": "AgentFO2",
+    "utility_173": 0.936910694,
+    "agent_174": "Agent4410",
+    "utility_174": 0.5282021763,
+    "nash_product": 0.4948782675695434,
+    "social_welfare": 1.4651128703,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1896,
+    "agent_175": "AgentFO2",
+    "utility_175": 0.6437736753,
+    "agent_176": "AgentFish",
+    "utility_176": 0.1894704053,
+    "nash_product": 0.12197605918056159,
+    "social_welfare": 0.8332440806,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 5603,
+    "agent_177": "AgentFO2",
+    "utility_177": 0.7938297948,
+    "agent_178": "BoulwareAgent",
+    "utility_178": 0.4808819008,
+    "nash_product": 0.38173838063509796,
+    "social_welfare": 1.2747116956,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2377,
+    "agent_179": "AgentFO2",
+    "utility_179": 0.4602596915,
+    "agent_180": "LuckyAgent2022",
+    "utility_180": 0.7746578404,
+    "nash_product": 0.35654377864056025,
+    "social_welfare": 1.2349175318999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 553,
+    "agent_181": "BoulwareAgent",
+    "utility_181": 0.3851871292,
+    "agent_182": "ColmanAnacondotAgent2",
+    "utility_182": 0.8935333512,
+    "nash_product": 0.3441775463931834,
+    "social_welfare": 1.2787204804,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 175,
+    "agent_183": "BoulwareAgent",
+    "utility_183": 0.5872007999,
+    "agent_184": "HybridAgent",
+    "utility_184": 0.759026922,
+    "nash_product": 0.4457012157440349,
+    "social_welfare": 1.3462277219,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 12041,
+    "agent_185": "BoulwareAgent",
+    "utility_185": 0.3122175916,
+    "agent_186": "HardlinerAgent",
+    "utility_186": 0.9757534099,
+    "nash_product": 0.30464737963446564,
+    "social_welfare": 1.2879710015,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2406,
+    "agent_187": "BoulwareAgent",
+    "utility_187": 0.95814,
+    "agent_188": "TimeDependentAgent",
+    "utility_188": 0.4561621662,
+    "nash_product": 0.437067217922868,
+    "social_welfare": 1.4143021662,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_189": "BoulwareAgent",
+    "utility_189": 0.9871743368,
+    "agent_190": "StupidAgent",
+    "utility_190": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 7663,
+    "agent_191": "BoulwareAgent",
+    "utility_191": 0.3767834864,
+    "agent_192": "DreamTeam109Agent",
+    "utility_192": 0.9472565835,
+    "nash_product": 0.3569106380464827,
+    "social_welfare": 1.3240400699,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1660,
+    "agent_193": "BoulwareAgent",
+    "utility_193": 0.9446238176,
+    "agent_194": "Agent4410",
+    "utility_194": 0.3782740294,
+    "nash_product": 0.3573266577507626,
+    "social_welfare": 1.3228978470000001,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3160,
+    "agent_195": "BoulwareAgent",
+    "utility_195": 0.6401227253,
+    "agent_196": "AgentFish",
+    "utility_196": 0.2103390234,
+    "nash_product": 0.13464278889574846,
+    "social_welfare": 0.8504617487,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 7143,
+    "agent_197": "BoulwareAgent",
+    "utility_197": 0.5372492214,
+    "agent_198": "AgentFO2",
+    "utility_198": 0.5687713568,
+    "nash_product": 0.3055719685954216,
+    "social_welfare": 1.1060205781999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2803,
+    "agent_199": "BoulwareAgent",
+    "utility_199": 0.3851871292,
+    "agent_200": "LuckyAgent2022",
+    "utility_200": 0.8935333512,
+    "nash_product": 0.3441775463931834,
+    "social_welfare": 1.2787204804,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 575,
+    "agent_201": "LuckyAgent2022",
+    "utility_201": 0.936910694,
+    "agent_202": "ColmanAnacondotAgent2",
+    "utility_202": 0.5282021763,
+    "nash_product": 0.4948782675695434,
+    "social_welfare": 1.4651128703,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 193,
+    "agent_203": "LuckyAgent2022",
+    "utility_203": 0,
+    "agent_204": "HybridAgent",
+    "utility_204": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 3134,
+    "agent_205": "LuckyAgent2022",
+    "utility_205": 0,
+    "agent_206": "HardlinerAgent",
+    "utility_206": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 916,
+    "agent_207": "LuckyAgent2022",
+    "utility_207": 0.95814,
+    "agent_208": "TimeDependentAgent",
+    "utility_208": 0.4561621662,
+    "nash_product": 0.437067217922868,
+    "social_welfare": 1.4143021662,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_209": "LuckyAgent2022",
+    "utility_209": 0.9871743368,
+    "agent_210": "StupidAgent",
+    "utility_210": 0.2244574044,
+    "nash_product": 0.2215785893284194,
+    "social_welfare": 1.2116317412,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2920,
+    "agent_211": "LuckyAgent2022",
+    "utility_211": 0,
+    "agent_212": "DreamTeam109Agent",
+    "utility_212": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 1653,
+    "agent_213": "LuckyAgent2022",
+    "utility_213": 0.9593346844,
+    "agent_214": "Agent4410",
+    "utility_214": 0.2120777067,
+    "nash_product": 0.20345349982532027,
+    "social_welfare": 1.1714123911,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1962,
+    "agent_215": "LuckyAgent2022",
+    "utility_215": 0.9461155372,
+    "agent_216": "AgentFish",
+    "utility_216": 0.2945927067,
+    "nash_product": 0.27871873695467253,
+    "social_welfare": 1.2407082439,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2515,
+    "agent_217": "LuckyAgent2022",
+    "utility_217": 0.8935741052,
+    "agent_218": "AgentFO2",
+    "utility_218": 0.4846589926,
+    "nash_product": 0.4330787256396784,
+    "social_welfare": 1.3782330978,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2688,
+    "agent_219": "LuckyAgent2022",
+    "utility_219": 0.936910694,
+    "agent_220": "BoulwareAgent",
+    "utility_220": 0.5282021763,
+    "nash_product": 0.4948782675695434,
+    "social_welfare": 1.4651128703,
+    "result": "agreement"
+  }
+]
